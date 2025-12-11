@@ -1,0 +1,9 @@
+{
+  "name": "AI CitySense - Civic Issue Detector",
+  "description": "An AI-powered tool for citizens and city officials to detect, analyze, and categorize civic infrastructure issues using images and descriptions.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
